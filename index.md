@@ -6,7 +6,8 @@ title: Oscar Miranda's CV
 ![Oscar](./media/22.png){:.avatar}
 
 # Oscar Miranda<br>
-Computer Science Student & Business Minded
+Mobile App Development and <br> 
+Business Minded Individual!
 
 <div id="webaddress">
 <a href="mailto:">omiranda@softstackfactory.org</a>
@@ -57,6 +58,7 @@ __San Diego State University__ Bachelors in Business Emphasis in Finance
 
 ## Projects
 My very first Ionic Change Calculator
+<a href="http://codepen.io/ozkar521/pen/QEEdyL">Calculator</a>
 
 ### CV
 
@@ -116,13 +118,13 @@ Performed customer segment research on Nano Tech companies and Investment patter
 * Excercising
 * Swimming
 * Travel
-* Learning new stuff - Languages
+* Learn new things
 * Play with new tech toys!
 
 ## Links
 
 * <i class="fa fa-envelope"></i> <a href="mailto:">omiranda@softstackfactory.org</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/">my account</a><br />
+* <i class="fa fa-github"></i> <a href="https://github.com/omirandassf">my account</a><br />
 * <i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a><br />
 * <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/">SO Account</a>
 * <i class="fa fa-google"></i> <a href="http://scholar.google.com/">scholar</a>
