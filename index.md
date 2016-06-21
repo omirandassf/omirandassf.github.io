@@ -11,7 +11,7 @@ Computer Science Student & Business Minded
 <div id="webaddress">
 <a href="mailto:">omiranda@softstackfactory.org</a>
 |
-<i class="fa fa-github"></i> <a href="https://github.com/oscar521/omiranda.gitbhub.io.git">my account</a>
+<i class="fa fa-github"></i> <a href="https://github.com/omirandassf/omiranda.gitbhub.io.git">my account</a>
 |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a>
 </div>
