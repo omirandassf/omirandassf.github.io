@@ -46,14 +46,13 @@ __San Diego State University__ Bachelors in Business Emphasis in Finance
 * MongoDB
 * Express
 * Node.Js
-* Mean Stack
 * Microsoft Word
 * Microsoft Excel
 * Microsoft Access
 * Microsoft Powerpoint
 * Microsoft Project
-* SAP
-* Tableau
+* SAP Business Associate Certification 
+* Tableau & SpotFire
 * Google Analytics
 
 ## Projects & Progress
@@ -101,7 +100,7 @@ __Finance and Operations Manager__  <em>Miranda Satellite</em><br>
 
 
 `Feb-12-May-12`
-__Finance and Operations Manager__  <em>Miranda Satellite</em><br>
+__Marketing Research__  <em>Arkan & Ergin</em><br>
 • 	Performed customer segment research on Nano Tech companies and Investment patterns.<br>
 • 	Developed understanding of customer markets and segments.<br>
 •	Crafted a Nano tech seed fund and thousands in new business leads.<br>
@@ -123,6 +122,6 @@ __Finance and Operations Manager__  <em>Miranda Satellite</em><br>
 
 * <i class="fa fa-envelope"></i> <a href="mailto:">omiranda@softstackfactory.org</a><br />
 * <i class="fa fa-github"></i> <a href="https://github.com/omirandassf">my account</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a><br />
-* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/">SO Account</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/">scholar</a>
+<!--* <i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a><br />-->
+<!--* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/">SO Account</a>-->
+<!--* <i class="fa fa-google"></i> <a href="http://scholar.google.com/">scholar</a>-->
