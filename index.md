@@ -101,7 +101,7 @@ __Finance and Operations Manager__  <em>Miranda Satellite</em><br>
 
 
 `Feb-12-May-12`
-__ Marketing Research__ <em> Arkan & Ergin</em> <br>
+__Finance and Operations Manager__  <em>Miranda Satellite</em><br>
 • 	Performed customer segment research on Nano Tech companies and Investment patterns.<br>
 • 	Developed understanding of customer markets and segments.<br>
 •	Crafted a Nano tech seed fund and thousands in new business leads.<br>
