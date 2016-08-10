@@ -6,15 +6,15 @@ title: Oscar Miranda's CV
 ![Oscar](./media/22.png){:.avatar}
 
 # Oscar Miranda<br>
-Mobile App Development and <br> 
+Hybrid Mobile App Developer and <br> 
 Business Minded Individual!
 
 <div id="webaddress">
 <a href="mailto:">omiranda@softstackfactory.org</a>
 |
 <i class="fa fa-github"></i> <a href="https://github.com/omirandassf/omiranda.gitbhub.io.git">my account</a>
-|
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a>
+<!--|-->
+<!--<i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a>-->
 </div>
 
 
@@ -28,13 +28,13 @@ them with computer programming skills in order to become a more valuable employe
 
 ## Education
 
-`September-2016`
+`Sept.- 2016`
 __SoftStack Factory - BootCamp__ 12-week long immersion Dev-bootcamp
 
-`December-2015`
+`Dec.- 2015`
 __Alliant International University__ Masters in Technology Management
 
-`August-2013`
+`Aug.- 2013`
 __San Diego State University__ Bachelors in Business Emphasis in Finance
 
 
@@ -56,59 +56,55 @@ __San Diego State University__ Bachelors in Business Emphasis in Finance
 * Tableau
 * Google Analytics
 
-## Projects
+## Projects & Progress
+During first weeks 
 My very first Ionic Change Calculator <br>
 <a href="http://codepen.io/ozkar521/pen/QEEdyL">Calculator</a>
 
 ### CV
 
 I created this web page to show off my CV.  
+<!--## Achievements-->
 
-## Achievements
-
-Coming Soon - Stay Tuned !
-
+<!--Coming Soon - Stay Tuned !-->
 ## Experience
 
 `Jun-14-Aug-15`
-__At&t__ <br>
+__U-verse Field Operations & Network Manager__ <em>At&t</em><br>
+•	Managed budgets and inventory.<br>
+•	Supported operations through analysis of key performance indicators and trends.<br>
+•	Developed comprehensive reports, abstracts, and charts to present data to improve efficiency, and surpassed monthly sales goals by $5,000 (100% above our goal).<br> 
 •	Developed and trained 15 new technicians to become a top 10 team in California.<br>
 •	Generated over $10,000 in monthly revenue, creating new customers leads and maintaining old.<br>
-•	Manage multiple building cabling projects simultaneously. <br>
-•	Managed the workflow, communication & direction across multiple AT&T departments.<br>
-•	Developed strategic sales plans to surpass monthly sales goals by $5,000 (100% above our goal).<br>
-•	Participated in team-based planning processes. <br>
-•	Led progress meetings with staff & team members to improve efficiency. <br>
-•	Managed budgets and inventory.<br>
-    o   Hold technicians accountable for not achieving productivity results and not being properly stocked everyday.<br>
+•	Manage multiple building cabling projects simultaneously.<br>
 
 `Jun-13-Dec-13`
-__Aldi__ <br>
+__District Manager Trainee__ <em>Aldi</em><br>
 •	Monitored and managed thousands in controllable store expenses.<br>
-•	Managed a team of over 20 staff.<br>
-•	Implemented and controlled store procedures. <br>
-•	Organized staff training and development.<br>
-•	Established, managed and reviewed the store grading systems to ensure optimum stock levels. <br>
+•	Analyzed sales figures and forecasted future sales volumes to maximize profits.<br>
+•	Managed and organized training of staff of over 20 people.<br>
+•	Established, managed and reviewed the store grading systems to ensure optimum stock levels.<br>
 •	Oversaw stock control and receiving orders.<br>
-•	Analyzed sales figures and forecasted future sales volumes to maximize profits. <br>
+
 
 `Jun-12-Jun-13`
-__Miranda Satellite__ <br>
-•	Formulated policies and implemented procedures for growth initiatives.<br>
-•	Grew new office 150% over a 12-month period, successfully generating above $100K in revenue.<br>
-•	Managed budgeting process, profit and loss records for performing business and financial analysis and cost reports.<br>
-•	Perform billing, payment allocation, collection and activity reporting following established protocols, to tight deadlines. <br>
+__Finance and Operations Manager__  <em>Miranda Satellite</em><br>
 •	Utilized strategic planning methodologies and goal setting to project financial and operations plans to work at the highest efficiency level.<br>
+•	Managed budgeting process, profit and loss records for performing business and financial analysis and cost reports.<br>
+•	Perform billing, payment allocation, collection and activity reporting following established protocols, to tight deadlines.<br> 
 •	Responsible for demonstrating company products to existing and potential customers, attending marketing conferences, exhibitions, and seminars; making regular face to face and telephone contact with existing and potential customers.<br> 
-•	Maintained schedules for meetings with multiple business owners. <br>
+•	Grew new office 150% over a 12-month period, successfully generating above $100K in revenue.<br>
+•	Formulated policies and implemented procedures for growth initiatives.<br>
+
+
 
 `Feb-12-May-12`
-__Arkan & Ergin__ <br>
-Performed customer segment research on Nano Tech companies and Investment patterns.<br>
+__ Marketing Research__ <em>Arkan & Ergin</em> <br>
+• 	Performed customer segment research on Nano Tech companies and Investment patterns.<br>
 • 	Developed understanding of customer markets and segments.<br>
-•	Created PowerPoint presentations for executives.
 •	Crafted a Nano tech seed fund and thousands in new business leads.<br>
-•	Worked with one their client and a financial analyst, on the clients expense tracking, financial statement analysis and on creating a forecasting model, based on historical data.<br>
+•	Created PowerPoint presentations for executives based on the marketing research performed.<br> 
+•	Worked with one their client and a financial analyst, on the clients expense tracking, financial statement analysis and on creating a forecasting model based on historical data.<br>
 
 
 
