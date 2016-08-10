@@ -63,10 +63,12 @@ My very first Ionic Change Calculator <br>
 
 ### CV
 
-I created this web page to show off my CV.  
+I created this web page to show off my CV. 
+
 <!--## Achievements-->
 
 <!--Coming Soon - Stay Tuned !-->
+
 ## Experience
 
 `Jun-14-Aug-15`
@@ -99,7 +101,7 @@ __Finance and Operations Manager__  <em>Miranda Satellite</em><br>
 
 
 `Feb-12-May-12`
-__ Marketing Research__ <em>Arkan & Ergin</em> <br>
+__ Marketing Research__ <em> Arkan & Ergin</em> <br>
 • 	Performed customer segment research on Nano Tech companies and Investment patterns.<br>
 • 	Developed understanding of customer markets and segments.<br>
 •	Crafted a Nano tech seed fund and thousands in new business leads.<br>
