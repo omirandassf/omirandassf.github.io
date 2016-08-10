@@ -57,7 +57,7 @@ __San Diego State University__ Bachelors in Business Emphasis in Finance
 * Google Analytics
 
 ## Projects
-My very first Ionic Change Calculator
+My very first Ionic Change Calculator <br>
 <a href="http://codepen.io/ozkar521/pen/QEEdyL">Calculator</a>
 
 ### CV
