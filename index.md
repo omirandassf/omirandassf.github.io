@@ -56,9 +56,17 @@ __San Diego State University__ Bachelors in Business Emphasis in Finance
 * Google Analytics
 
 ## Projects & Progress
-During first weeks 
-My very first Ionic Change Calculator <br>
-<a href="http://codepen.io/ozkar521/pen/QEEdyL">Calculator</a>
+Qualifier Challenge<br>
+<a href="https://www.khanacademy.org/computer-programming/spin-off-of-orbiting-challenge-30-oscar/5506801775" target="_blank"> Spin off Project</a>
+<p>The Objective was to create 3 objects to orbit around the Sun</p><br>
+Project during 1st Week of Class<br>
+<a href="http://codepen.io/ozkar521/pen/QEEdyL" target="_blank">Train Challenge</a>
+<p>The Objective was to create a program that would tell you which trains are running and which are not, <br>
+based on you setting the parameters in the beginning</p><br>
+Project during 2nd Week of Class<br>
+<a href="http://codepen.io/ozkar521/pen/QEEdyL" target="_blank">First Ionic Change Calculator</a>
+
+
 
 ### CV
 
@@ -93,7 +101,7 @@ __Finance and Operations Manager__  <em>Miranda Satellite</em><br>
 •	Utilized strategic planning methodologies and goal setting to project financial and operations plans to work at the highest efficiency level.<br>
 •	Managed budgeting process, profit and loss records for performing business and financial analysis and cost reports.<br>
 •	Perform billing, payment allocation, collection and activity reporting following established protocols, to tight deadlines.<br> 
-•	Responsible for demonstrating company products to existing and potential customers, attending marketing conferences, exhibitions, and seminars; making regular face to face and telephone contact with existing and potential customers.<br> 
+•	Responsible for demonstrating company products to existing and potential customers, attending marketing conferences, exhibitions, and seminars.<br> 
 •	Grew new office 150% over a 12-month period, successfully generating above $100K in revenue.<br>
 •	Formulated policies and implemented procedures for growth initiatives.<br>
 
