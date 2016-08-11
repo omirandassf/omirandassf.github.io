@@ -69,6 +69,11 @@ based on you setting the parameters in the beginning.</strong></p><br>
 <a href="http://codepen.io/ozkar521/pen/QEEdyL" target="_blank">First Ionic Change Calculator</a>
 <p><strong>The goal for this project was to create a calculator that takes a total amount owed and total amount given and <br>
 tells you how much change is owed in quarters, dimes, nickels, and pennies.</strong></p>
+<h3>1st Ionic Application</h3><br>
+<a href="https://ide.c9.io/oscar521/tktest" target="_blank">The TK Test</a>
+<p><strong>The TK Test (or Thomas-Kilmann Instrument) which is a self-scoring assessment that <br>
+allows you to discover whether you might be overusing or underusing one or more of these five conflict-handling modes.<br>
+In Order to test this application backend needs to be turned on. (Running on a public c9 environment)</strong></p>
 
 
 
