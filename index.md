@@ -56,15 +56,15 @@ __San Diego State University__ Bachelors in Business Emphasis in Finance
 * Google Analytics
 
 ## Projects & Progress
-<h2>Qualifier Challenge</h2><br>
+<h3>Qualifier Challenge</h3><br>
 <a href="https://www.khanacademy.org/computer-programming/spin-off-of-orbiting-challenge-30-oscar/5506801775" target="_blank"> Spin off Project</a>
 <p><strong>The goal for this project was to make a solar system using Javascript. The project requirements were to add a sun, three planets of different colors and <br>
 sizes that orbit the sun (without colliding into each other or the sun) and have one of the planets orbit in an elipse shape rather than circular.</strong></p><br>
-<h2>Project during 1st Week of Class</h2><br>
+<h3>Project during 1st Week of Class</h3><br>
 <a href="http://codepen.io/ozkar521/pen/QEEdyL" target="_blank">Train Challenge</a>
 <p><strong>The Objective was to create a program that would tell you which trains are running and which are not, <br>
 based on you setting the parameters in the beginning.</strong></p><br>
-<h2>Project during 2nd Week of Class</h2><br>
+<h3>Project during 2nd Week of Class</h3><br>
 <a href="http://codepen.io/ozkar521/pen/QEEdyL" target="_blank">First Ionic Change Calculator</a>
 <p><strong>The goal for this project was to create a calculator that takes a total amount owed and total amount given and <br>
 tells you how much change is owed in quarters, dimes, nickels, and pennies.</strong></p>
