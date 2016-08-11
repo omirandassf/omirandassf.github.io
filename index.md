@@ -56,6 +56,7 @@ __San Diego State University__ Bachelors in Business Emphasis in Finance
 * Google Analytics
 
 ## Projects & Progress
+
 <h4>Qualifier Challenge</h4><br>
 <a href="https://www.khanacademy.org/computer-programming/spin-off-of-orbiting-challenge-30-oscar/5506801775" target="_blank"> Spin off Project</a>
 <p><strong>The goal for this project was to make a solar system using Javascript. The project requirements were to add a sun, three planets of different colors and <br>
