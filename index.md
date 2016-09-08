@@ -139,7 +139,7 @@ __Marketing Research__  <em>Arkan & Ergin</em><br>
 
 * <i class="fa fa-envelope"></i> <a href="mailto:">omiranda@softstackfactory.org</a><br />
 * <i class="fa fa-github"></i> <a href="https://github.com/omirandassf">my account</a><br />
-* <a href="./media/oscarmresume.docx">My Resume</a><br />
+* <a src="./media/oscarmresume.docx">Resume</a><br />
 <!--* <i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a><br />-->
 <!--* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/">SO Account</a>-->
 <!--* <i class="fa fa-google"></i> <a href="http://scholar.google.com/">scholar</a>-->
